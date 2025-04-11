@@ -489,6 +489,7 @@ void heapify(vector<int>& a, int n, int i) {
         a[i] = a[child];
         i = child;
     }
+    a[i] = saved;
 }
 void buildHeap(vector<int>& a, int n) {
     for (int i = n / 2 - 1; i >= 0; i--) {
