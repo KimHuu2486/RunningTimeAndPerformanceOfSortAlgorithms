@@ -1,0 +1,13 @@
+﻿  Experiment3.cpp
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(70,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(272,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(312,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(317,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(378,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(386,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(403,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(435,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(436,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(540,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\Experiment3\Experiment3.cpp(582,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Experiment3.vcxproj -> D:\HK2 Năm 1 ĐH\TH DSA\BigAssignment\BigAssignment\x64\Debug\Experiment3.exe

@@ -1,0 +1,15 @@
+RESULTS: 
+Nearly Sorted Array:
+Selection Sort: 53514.67ms
+Insertion Sort: 16349.67ms
+Binary Insertion Sort: 11192.00ms
+Bubble Sort: 82365.67ms
+Shaker Sort: 91615.67ms
+Shell Sort: 936.33ms
+Heap Sort: 219.33ms
+Merge Sort: 917.00ms
+Natural Merge Sort: 991.67ms
+Quick Sort: 201.00ms
+Function std::sort: 210.33ms
+Radix Sort: 908694.67ms
+Counting Sort: 869318.67ms
